@@ -1,10 +1,10 @@
 # 课程设计：KNN的MapReduce+CUDA实现
 
-├── MapReduce.cpp       MapReduce主程序
-├── cmp.cpp             正确性验证程序
-├── core.cu             核心部分CUDA
-├── data_gen.cpp        数据生成器
-└── input.txt           输入数据格式
+├── MapReduce.cpp       MapReduce主程序<br/>
+├── cmp.cpp             正确性验证程序<br/>
+├── core.cu             核心部分CUDA<br/>
+├── data_gen.cpp        数据生成器<br/>
+└── input.txt           输入数据格式<br/>
 
 ## 数据生成器
 
